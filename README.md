@@ -1,7 +1,5 @@
 # Introduction to Healthcare Data Analysis in Python
 
-[![Create a Slack Account with us](https://img.shields.io/badge/Create_Slack_Account-The_Carpentries-071159.svg)](https://swc-slack-invite.herokuapp.com/)
-[![Slack Status](https://img.shields.io/badge/Slack_Channel-neuroimaging-E01563.svg)](https://swcarpentry.slack.com/messages/CCJBHKCHZ)
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/keithcallenberg/healthcare-data-carpentry/gh-pages?urlpath=lab/tree/code)
 
 ## Background
@@ -19,14 +17,10 @@ This lesson covers ...
 | Time | Episode | Question(s) Answered |
 | ---  | ---     | ---                  |
 ||Setup|Download files required for the lesson|
-| 00:00 | 1. Course Overview and Introduction | What steps do I need to take before beginning to work with fMRI data? |
-| 00:25 | 2. Exploring Preprocessed fMRI Data from fMRIPREP | How does fMRIPrep store preprocessed neuroimaging data? How do I access preprocessed neuroimaging data?  |
-| 00:50 | 3. Introduction to Image Manipulation using Nilearn | How can I perform arithmetic operations on MR images? |
-| 01:35 | 4. Integrating Functional Data  | How is fMRI data represented? How can I access fMRI data along spatial and temporal dimensions? How can I integrate fMRI and structural MRI together? |
-| 02:20 | 6. Cleaning Confounders in your Data with Nilearn | How can I clean the data so that it more closely reflects BOLD instead of artifacts?  |
-| 02:50 | 7. Applying Parcellations to Resting State Data | How can I reduce amount of noise-related variance in my data? How can I frame my data as a set of meaningful features?  |
-| 03:30 | 8. Functional Connectivity Analysis | How can we estimate brain functional connectivity patterns from resting state data? |
-| 04:15 | Finish | |
+| 00:00 | 1. Course Overview and Introduction | What steps do I need to take before beginning to work with healthcare data? |
+| 00:25 | 2. Exploring Preprocessed healthcare Data | ? |
+| 00:50 | 3. Introduction to Data Munging using Pandas | ? |
+| 01:35 | 4.   |  |
 
 
 ## Contributing
